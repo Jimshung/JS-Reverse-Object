@@ -4,6 +4,7 @@
   "description": "",
   "main": "ReverseObject.js",
   "scripts": {
+    "run_server": "nodemon ReverseObject.js",
     "test": "jest --coverage"
   },
   "keywords": [],
