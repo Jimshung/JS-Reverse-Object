@@ -8,16 +8,6 @@ let inputValue = {
   }
 };
 
-// Output:
-// let outputValue = {
-//   I: {
-//     deserve: {
-//       to: {
-//         be: 'hired'
-//       }
-//     }
-//   }
-// };
 function ReverseObject(o) {
   let r;
   while (typeof o === 'object') {
